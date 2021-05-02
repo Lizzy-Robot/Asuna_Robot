@@ -1,4 +1,4 @@
-[![Deploy](https://telegra.ph/file/5bcc5e255473f624dd47f.jpg)](https://heroku.com/deploy?template=https://github.com/QueenArzoo/LaylaRobot.git)
+[![Deploy](https://telegra.ph/file/5bcc5e255473f624dd47f.jpg)](https://heroku.com/deploy?template=https://github.com/Lizzy-Robot/Asuna_Robot.git)
 # Girlfriend Robot
 ### Click Above Image to Deploy
 
