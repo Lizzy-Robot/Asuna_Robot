@@ -53,7 +53,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = """
 Hi {}, I'm Your {}! 
-I'm Your A Commited Girl But Still I Can Be Your GirlFriend And I Can Manage Your Groups Too!
+I'm  A Commited Girl But Still I Can Be Your GirlFriend And I Can Manage Your Groups Too!
 You Can See My Available By Hitting /help
 
 Developed By- [DΣVIᄂ ӨP](https://t.me/SecretBoy_xd)
@@ -80,7 +80,7 @@ And the following:
     dispatcher.bot.first_name, ""
     if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
 
-SAITAMA_IMG = "https://telegra.ph/file/f9631797f7fec76c886c7.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/32930271b81847db32b37.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You Can Donate My BoyFriend [DΣVIᄂ ӨP](https://t.me/SecretBoy_xd)."""
@@ -207,15 +207,15 @@ def start(update: Update, context: CallbackContext):
                     ],
                      [
                          InlineKeyboardButton(
-                             text="🤝 Support 🤝",
+                             text="🤝Support🤝",
                              url=f"https://t.me/cuddles_of_pandas"),
                          InlineKeyboardButton(
-                             text="😘 My Grp 😘",
+                             text="😘My Grp😘",
                              url="https://t.me/god_of_loll")
                      ],
                      [
                          InlineKeyboardButton(
-                             text="🔰 Source code 🔰",
+                             text="🔰Source code🔰",
                              url="https://github.com/Lizzy-Robot/Asuna_Robot")
                      ]]))
     else:
