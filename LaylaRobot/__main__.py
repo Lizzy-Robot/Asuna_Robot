@@ -202,7 +202,7 @@ def start(update: Update, context: CallbackContext):
                     [[
                         InlineKeyboardButton(
                             text="🔥 Add Your GirlFriend 🔥",
-                            url="t.me/{}?startgroup=false".format(
+                            url="t.me/{}?startgroup=true".format(
                                 context.bot.username))
                     ],
                      [
